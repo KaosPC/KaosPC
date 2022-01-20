@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaosPC
+- 👋 Hi, I’m @KaosPCtech
 - 👀 I’m interested in ... PC building, gaming, editing and learning how to code.
 - 🌱 I’m currently learning ... how to use Linux and understand Networking; remote access, mapped network drive, LAN and WAN.
 - 💞️ I’m looking to collaborate on ... anything basic 
